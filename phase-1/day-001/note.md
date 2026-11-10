@@ -1,1 +1,1 @@
-Today We learn printing Hello World! in python
+Today i learn printing Hello World! in python
